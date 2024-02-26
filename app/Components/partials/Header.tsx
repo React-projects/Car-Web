@@ -18,7 +18,7 @@ function Header() {
         <CustomButton
           title="Sign In"
           btnType="button"
-          containerstyles="text-primary-blue bg-white rounded-full min-w-[130px] "
+          containerStyles="text-primary-blue bg-white rounded-full min-w-[130px] "
         />
       </nav>
     </header>
